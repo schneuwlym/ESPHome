@@ -1,7 +1,7 @@
 # This configuration is based on https://github.com/mightea/esphome-mystrom-devices/blob/main/README.md
 
 substitutions:
-  system_name: mystrom-switch-01
+  name: mystrom-switch-01
   friendly_name: MyStrom Switch 01
 
 time:
